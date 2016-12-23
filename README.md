@@ -1,8 +1,17 @@
 # QuoteGen
 A simple website that gives you a quote everytime you refresh the page
 
-Made using https://magixjs.com 
+Made using https://magixjs.com
 
+Install and Run:
+
+1. Download the project
+
+2. npm install -g magixjs
+
+3. cd QuoteGen
+
+4. magix launch
 
 
 [![Screen Shot 2016-12-23 at 11.42.33 AM.png](https://s27.postimg.org/feqhbncqb/Screen_Shot_2016_12_23_at_11_42_33_AM.png)](https://postimg.org/image/siw1oc4rz/)
